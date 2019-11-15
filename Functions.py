@@ -10,7 +10,7 @@ def stud3():
     print "*" * 34
 
 def stud4():
-    pass
+    print "what about here?"
 
 def stud5():
     pass
