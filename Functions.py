@@ -2,6 +2,7 @@ def stud1():
     pass
 
 def stud2():
+    print "something else"
     pass
 
 def stud3():
