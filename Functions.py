@@ -1,5 +1,6 @@
 def stud1():
-    pass
+    print "Hello World"
+    print "_" * 50
 
 def stud2():
     pass
