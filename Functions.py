@@ -6,6 +6,7 @@ def stud2():
     print "something else"
 
 def stud3():
+    print "_" * 23
     print "*" * 34
 
 def stud4():
