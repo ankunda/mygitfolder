@@ -13,7 +13,10 @@ def stud4():
     print "what about here?"
 
 def stud5():
-    pass
+    '''
+    This is an adjustment that is being made on the newfeature branch and not on the
+    main branch as a demonstration for branches
+    '''
 
 stud1()
 stud2()
